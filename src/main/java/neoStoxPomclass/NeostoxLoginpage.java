@@ -26,6 +26,16 @@ public class NeostoxLoginpage
 	}
 	public void EnterMobilenumber(WebDriver driver,String Mobnumber)
 	{
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		Utilityproperties.wait(driver, 1000);
 		 monofiled.sendKeys(Mobnumber);
 	}
