@@ -23,6 +23,13 @@ public class NeostoxLoginpage
 	{
 		Utilityproperties.wait(driver, 1000);
 		signinbutton.click();
+		
+		
+		
+		
+		
+		
+		
 	}
 	public void EnterMobilenumber(WebDriver driver,String Mobnumber)
 	{

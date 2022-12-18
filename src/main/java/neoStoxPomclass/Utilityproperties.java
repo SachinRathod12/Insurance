@@ -38,6 +38,13 @@ public class Utilityproperties
 		JavascriptExecutor js = ((JavascriptExecutor)driver);
 		js.executeScript("arguments[0].scrollIntoView(true)", element);
 		Reporter.log("scrolling in to view", true);
+	
+	
+	
+	
+	
+	
+	
 	}
 	
 	public static void screenshot(WebDriver driver,String screenshot) throws IOException
